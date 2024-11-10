@@ -9,7 +9,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-image: url('images/fondo.jpg'); /* Imagen de fondo */
+    background-image: url('https://media.gettyimages.com/id/1325440885/es/foto/sal%C3%B3n-de-belleza-de-estilo-retro.jpg?s=1024x1024&w=gi&k=20&c=SWKMj2j3-K2l41oMD0DD9nfK0vEdmLen_z5WRFb7Eyc='); /* Imagen de fondo */
     background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */

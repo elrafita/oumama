@@ -1,14 +1,21 @@
+/* Reset de márgenes y relleno */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* Estilos generales del cuerpo */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    background-image: url('images/fondo.jpg'); /* Imagen de fondo */
+    background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
 
+/* Encabezado */
 header {
     background-color: #333;
     color: #fff;
@@ -16,6 +23,7 @@ header {
     text-align: center;
 }
 
+/* Navegación */
 header nav ul {
     list-style: none;
 }
@@ -30,25 +38,20 @@ header nav ul li a {
     text-decoration: none;
 }
 
+/* Sección de contenido */
 section {
     padding: 2rem;
 }
 
+/* Estilo de títulos */
 h2 {
     color: #333;
 }
 
+/* Pie de página */
 footer {
     text-align: center;
     padding: 1rem;
     background-color: #333;
     color: #fff;
-}
-
-
-body {
-    background-image: url('images/fondo.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }

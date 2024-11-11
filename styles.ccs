@@ -9,7 +9,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-image: url('https://raw.githubusercontent.com/elrafita/oumama/refs/heads/main/images/fondo.jpeg'); /* Ruta correcta de la imagen */
+    background-image: url('images/fondo.jpg'); /* Ruta correcta de la imagen */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
